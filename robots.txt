@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-an0isc.nuansa138b.space/sitemap.xml
